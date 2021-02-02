@@ -1,0 +1,29 @@
+.visitor
+{
+    width: 40%;
+    height: 300px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 5%;
+    border: 1px solid gray;
+    box-shadow: 3px 3px 3px 3px gray;
+}
+.visitor h1
+{
+    text-align: center;
+    font-size: 3rem;
+}
+
+.visitor #visitor_count li
+{
+    list-style: none;
+    float: left;
+    background-color: #003;
+    padding: 3% 5%;
+    margin-top: 30px;
+    margin-left: 4%;
+    margin-right: 4%;
+    color: white;
+    font-size: 20px;
+   
+}
